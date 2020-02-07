@@ -1,5 +1,19 @@
-.App {
-  text-align: center;
+.App-paragraph {
+  text-align: left;
+  margin-left: 20px;
+  min-height: 50px;
+  font-size: 30px;
+  color: tomato;
+}
+
+.App-toggleRTL {
+  color: white;
+  background: green;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+  margin: 20px;
+  font-weight: bold;
 }
 
 .App-logo {

@@ -1,3 +1,7 @@
+This project was created part of my dev.to article that guides to configure [webpack-rtl-plugin](https://www.npmjs.com/package/webpack-rtl-plugin) for the support of RTL in React application.
+
+This project also consists reusable custom hook `useRTL()` that you can use in any react application to include .rtl.css file in your react app that usage [webpack-rtl-plugin](https://www.npmjs.com/package/webpack-rtl-plugin).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
